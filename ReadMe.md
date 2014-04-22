@@ -22,8 +22,10 @@ We've determined we'll need the following:
 ### Bog Views
 
 * A page with a form to submit a *new* creature
-* A page with a form to edit a *creature* already submitted
 * A page to view a list of all *creatures*
+
+### Bonus Views
+* A page with a form to edit a *creature* already submitted
 * A page to view just one *creature*
 
 ### Challenge
